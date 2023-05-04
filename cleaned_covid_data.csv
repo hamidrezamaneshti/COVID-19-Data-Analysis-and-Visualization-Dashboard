@@ -1,0 +1,197 @@
+ID,Country,CountryCode,Slug,NewConfirmed,TotalConfirmed,NewDeaths,TotalDeaths,NewRecovered,TotalRecovered,Date,Premium
+df49e0d2-2415-483b-a8d0-40ba715c6405,Afghanistan,AF,afghanistan,0,209451,0,7896,0,0,04/05/2023,{}
+25d747fa-e82b-4dba-b95a-627894e7c257,Albania,AL,albania,14,334457,0,3598,0,0,04/05/2023,{}
+2779a01d-49ba-438c-9567-50f2b785b3d5,Algeria,DZ,algeria,2,271496,0,6881,0,0,04/05/2023,{}
+6f17e6af-85b2-4f4d-a626-9127e89f9b7d,Andorra,AD,andorra,0,47890,0,165,0,0,04/05/2023,{}
+19418534-3317-4244-b97c-4584909062ae,Angola,AO,angola,0,105288,0,1933,0,0,04/05/2023,{}
+bbe27796-cc45-4a50-94df-0603ed94c79f,Antarctica,AQ,antarctica,0,11,0,0,0,0,04/05/2023,{}
+45cf398d-a6bd-473b-be78-0aa6a3551f35,Antigua and Barbuda,AG,antigua-and-barbuda,0,9106,0,146,0,0,04/05/2023,{}
+275ddf91-a766-47e2-9402-71bceda1011b,Argentina,AR,argentina,0,10044957,0,130472,0,0,04/05/2023,{}
+90a90137-3cfd-4a42-bc2c-1605847e8a2a,Armenia,AM,armenia,0,447308,0,8727,0,0,04/05/2023,{}
+b5fd4b43-931f-4bfc-913f-03edb325d1bd,Australia,AU,australia,13926,11399460,115,19574,0,0,04/05/2023,{}
+773c83ef-78e1-4e63-a590-c63ea88e4993,Austria,AT,austria,5283,5961143,21,21970,0,0,04/05/2023,{}
+b8a17c7d-7735-44f2-9d77-ab13430209e0,Azerbaijan,AZ,azerbaijan,6,828825,0,10138,0,0,04/05/2023,{}
+f6bfad9e-dda5-47b8-97e9-b1d57ff33b31,Bahamas,BS,bahamas,0,37491,0,833,0,0,04/05/2023,{}
+b38af6ab-a766-4e47-a091-075d7a0854ac,Bahrain,BH,bahrain,387,710693,0,1553,0,0,04/05/2023,{}
+890bcece-e1a3-42ef-9217-fc3778d88939,Bangladesh,BD,bangladesh,0,2037871,0,29445,0,0,04/05/2023,{}
+5529b23e-c04a-4681-a805-be8ee88ee4ca,Barbados,BB,barbados,153,106798,4,579,0,0,04/05/2023,{}
+f31a9049-f489-40b4-b94c-93c3ea0d8e49,Belarus,BY,belarus,0,994037,0,7118,0,0,04/05/2023,{}
+9d4e2610-24fc-46f7-a484-b27f3d98c30b,Belgium,BE,belgium,11570,4739365,39,33814,0,0,04/05/2023,{}
+0f157d9d-c456-425c-9cec-0d36d4acf93c,Belize,BZ,belize,0,70757,0,688,0,0,04/05/2023,{}
+e19b701f-e862-4e6a-84ac-384a3119eb4c,Benin,BJ,benin,0,27999,0,163,0,0,04/05/2023,{}
+e0f808b6-c245-47de-a19c-e241cc5c4990,Bhutan,BT,bhutan,0,62627,0,21,0,0,04/05/2023,{}
+ce4f4be2-f05e-484c-938a-0cd18e28da34,Bolivia,BO,bolivia,90,1194277,0,22365,0,0,04/05/2023,{}
+19f4b08c-f754-4a1a-a69e-b2b10c452884,Bosnia and Herzegovina,BA,bosnia-and-herzegovina,0,401729,0,16280,0,0,04/05/2023,{}
+49561957-181a-4b26-bc61-9ff612d6078a,Botswana,BW,botswana,0,329758,0,2801,0,0,04/05/2023,{}
+422b466a-81ca-4a15-9f60-0c9be9866e19,Brazil,BR,brazil,0,37076053,0,699276,0,0,04/05/2023,{}
+ec3d2ef8-daf1-4e9a-95f1-e7d97af96ce8,Brunei Darussalam,BN,brunei,0,279661,0,225,0,0,04/05/2023,{}
+f6c4dca9-ac4f-4300-9313-06020524b3cb,Bulgaria,BG,bulgaria,72,1297523,3,38228,0,0,04/05/2023,{}
+b20bd487-1374-4f16-9f4f-058aa33480c7,Burkina Faso,BF,burkina-faso,0,22056,0,396,0,0,04/05/2023,{}
+9b9b1166-a848-4a6e-a8a4-8588ac85e981,Burundi,BI,burundi,0,53631,0,38,0,0,04/05/2023,{}
+e0709cb0-a3fb-404f-bf9d-0d1e164a0cc6,Cambodia,KH,cambodia,0,138719,0,3056,0,0,04/05/2023,{}
+5e16eea5-805f-49e5-abe1-73370ba4feb1,Cameroon,CM,cameroon,0,124392,0,1965,0,0,04/05/2023,{}
+0db0ea7b-0588-4193-9b06-aec7537f031f,Canada,CA,canada,4041,3987800,86,46097,0,0,04/05/2023,{}
+cd872870-ef10-46f5-adb9-f535c7a89c6d,Cape Verde,CV,cape-verde,0,63244,0,413,0,0,04/05/2023,{}
+4bc9bf53-4f31-4c57-bbb0-5dd8a53bb151,Central African Republic,CF,central-african-republic,0,15368,0,113,0,0,04/05/2023,{}
+cf01348d-bbac-4e8f-bc20-a8e526c95953,Chad,TD,chad,0,7679,0,194,0,0,04/05/2023,{}
+98efcfa8-671b-488b-a595-a6daa63e34c3,Chile,CL,chile,3906,5192286,19,64273,0,0,04/05/2023,{}
+46479068-8a58-4b4b-939b-61f225dbc971,China,CN,china,0,3378416,1,18831,0,0,04/05/2023,{}
+3324461b-640a-48cf-ac7e-f080adb5cd18,Colombia,CO,colombia,0,6359093,0,142339,0,0,04/05/2023,{}
+81943b89-b8bc-4d8e-bad8-26926abb435b,Comoros,KM,comoros,0,9008,0,161,0,0,04/05/2023,{}
+6a3d9e97-db65-43f6-99a9-b702a4ab22e5,Congo (Brazzaville),CG,congo-brazzaville,0,25087,0,388,0,0,04/05/2023,{}
+fc4a591d-2f57-4a51-b884-1c63a290c545,Congo (Kinshasa),CD,congo-kinshasa,0,95749,0,1464,0,0,04/05/2023,{}
+f9436641-afcf-448b-9d01-7df93d688bdb,Costa Rica,CR,costa-rica,0,1209725,0,9245,0,0,04/05/2023,{}
+47fb52e4-16c7-4d4c-a600-50d751fb499d,Croatia,HR,croatia,0,1269326,0,17987,0,0,04/05/2023,{}
+694cfb61-7c32-4041-b284-9c9ec0b9cf99,Cuba,CU,cuba,6,1112643,0,8530,0,0,04/05/2023,{}
+1bb6f9a6-54fd-4144-a624-ae5944e0523e,Cyprus,CY,cyprus,0,650685,0,1330,0,0,04/05/2023,{}
+6c5d6a8d-1903-4656-87bf-704d4e36c7c7,Czech Republic,CZ,czech-republic,1142,4618256,3,42491,0,0,04/05/2023,{}
+6819403c-2b77-4da9-92f0-82f7c6e6d187,Côte d'Ivoire,CI,cote-divoire,8,88263,0,834,0,0,04/05/2023,{}
+1e2beece-e4ae-4bd1-8d1c-881c93239b61,Denmark,DK,denmark,139,3451036,4,8345,0,0,04/05/2023,{}
+b0c4fbca-ee46-4115-8f2b-9d0ce953bcab,Djibouti,DJ,djibouti,0,15690,0,189,0,0,04/05/2023,{}
+bfaaa0a2-9f25-42b3-b70e-5c8fc52ec06b,Dominica,DM,dominica,0,15760,0,74,0,0,04/05/2023,{}
+a8cbd8ac-7744-4e12-bbc4-469316d854a7,Dominican Republic,DO,dominican-republic,0,660790,0,4384,0,0,04/05/2023,{}
+b9a0828d-780b-40d9-84c9-3ab344de4dfb,Ecuador,EC,ecuador,0,1057121,0,36014,0,0,04/05/2023,{}
+024a5eda-1f2d-4580-9403-84dfda88e4d4,Egypt,EG,egypt,0,515759,0,24812,0,0,04/05/2023,{}
+4a1ede7f-320a-4de3-b2fd-bb9cc0c54441,El Salvador,SV,el-salvador,0,201785,0,4230,0,0,04/05/2023,{}
+d7d305b1-a04a-477b-ad46-9da61388b8e8,Equatorial Guinea,GQ,equatorial-guinea,0,17229,0,183,0,0,04/05/2023,{}
+40e52e5d-cef7-48f8-9130-a485e0b76b5c,Eritrea,ER,eritrea,0,10189,0,103,0,0,04/05/2023,{}
+6e95c06d-4f0c-4c57-bb70-be6c8a3db246,Estonia,EE,estonia,0,615433,0,2946,0,0,04/05/2023,{}
+74d538f1-32fa-4ef4-869f-63e8653b6067,Ethiopia,ET,ethiopia,14,500116,0,7572,0,0,04/05/2023,{}
+13babb83-5679-4f43-a31a-38673f9a86a6,Fiji,FJ,fiji,1,68898,0,883,0,0,04/05/2023,{}
+9c14a35c-ce4a-4d57-a521-fbe3c8bd8e7b,Finland,FI,finland,668,1463644,31,8967,0,0,04/05/2023,{}
+4d29a91b-8084-4ee3-a883-791a6c3a0f57,France,FR,france,6308,39866718,11,166176,0,0,04/05/2023,{}
+47af8200-6f80-40f1-bb80-aebd93599645,Gabon,GA,gabon,0,48981,0,306,0,0,04/05/2023,{}
+cbaa1020-32e6-4b8b-bb87-1fea161f3d8d,Gambia,GM,gambia,0,12598,0,372,0,0,04/05/2023,{}
+2df61b14-c103-4167-9f9c-0471464565af,Georgia,GE,georgia,0,1827537,0,16971,0,0,04/05/2023,{}
+4a0359e2-79cc-4c76-91ce-be154dc50498,Germany,DE,germany,7829,38249060,127,168935,0,0,04/05/2023,{}
+820c173c-4838-48de-80aa-eb55d626bfac,Ghana,GH,ghana,0,171229,0,1462,0,0,04/05/2023,{}
+6a6e817a-5ad1-4a23-92d4-971b9284f625,Greece,GR,greece,0,5548487,0,34779,0,0,04/05/2023,{}
+bf5b0858-0706-4a6c-99a9-a3f94827fbe3,Grenada,GD,grenada,0,19680,0,238,0,0,04/05/2023,{}
+348fdf78-e326-46db-b0c7-97b733c6b0b7,Guatemala,GT,guatemala,198,1238247,0,20182,0,0,04/05/2023,{}
+ea1844c8-61a7-4d4f-8c9e-11045f1195f2,Guinea,GN,guinea,0,38267,0,467,0,0,04/05/2023,{}
+ba5d90eb-0355-4af2-ac0a-22a69bac74d8,Guinea-Bissau,GW,guinea-bissau,0,8960,0,176,0,0,04/05/2023,{}
+cc020e37-9cc9-4abf-a3c2-e3643885314e,Guyana,GY,guyana,0,73075,0,1298,0,0,04/05/2023,{}
+eb7e9982-fcee-4cdf-aea1-81c890ec361c,Haiti,HT,haiti,0,34202,0,860,0,0,04/05/2023,{}
+5c03c151-7af8-4ec8-a8ac-6a08c6a04c4e,Holy See (Vatican City State),VA,holy-see-vatican-city-state,0,29,0,0,0,0,04/05/2023,{}
+77488f92-6b1a-43f8-9483-afe43069088c,Honduras,HN,honduras,0,472250,0,11111,0,0,04/05/2023,{}
+17ba9bb1-98bc-48ae-b1f9-53cc8d126f02,Hungary,HU,hungary,0,2196804,0,48762,0,0,04/05/2023,{}
+43352a4d-2dcf-4b2e-baf0-81a8af8de47c,Iceland,IS,iceland,0,209137,0,263,0,0,04/05/2023,{}
+db99a911-8d7a-4247-b8e6-a1ec24db05e4,India,IN,india,440,44690738,3,530779,0,0,04/05/2023,{}
+307c3d7d-0984-4229-bd6e-ff0c0a08d9e8,Indonesia,ID,indonesia,307,6738225,4,160941,0,0,04/05/2023,{}
+b11986b3-ab9e-418f-977c-53bf3f67e61c,"Iran, Islamic Republic of",IR,iran,315,7572311,11,144933,0,0,04/05/2023,{}
+dc8f503e-61b9-4776-9b03-aca325d6c95f,Iraq,IQ,iraq,0,2465545,0,25375,0,0,04/05/2023,{}
+e4f6c63b-77e4-4dee-8d59-9342ed53eba4,Ireland,IE,ireland,0,1704502,0,8708,0,0,04/05/2023,{}
+610a44a3-cf65-411e-9f84-ca906ae8a5d1,Israel,IL,israel,660,4803824,4,12329,0,0,04/05/2023,{}
+5aa7b7fc-c561-4cdf-804c-ff36e41579f6,Italy,IT,italy,0,25603510,0,188322,0,0,04/05/2023,{}
+24f6f25d-52b0-493e-8198-7bd4c3853c35,Jamaica,JM,jamaica,129,154416,3,3514,0,0,04/05/2023,{}
+a31336db-d97b-44d1-a229-f5a8fad54034,Japan,JP,japan,9834,33320438,80,72997,0,0,04/05/2023,{}
+37ca6b4b-bef9-407e-ab26-9f9009722d93,Jordan,JO,jordan,0,1746997,0,14122,0,0,04/05/2023,{}
+1805c2b7-4ffe-4b30-9977-30a92c6fa8a0,Kazakhstan,KZ,kazakhstan,0,1498668,0,19071,0,0,04/05/2023,{}
+022aaeea-22d8-4b5e-8d31-2590d11b588d,Kenya,KE,kenya,0,342937,0,5688,0,0,04/05/2023,{}
+bc747b68-8cee-4ac8-9d97-2908a2e9d744,Kiribati,KI,kiribati,0,5014,0,18,0,0,04/05/2023,{}
+eb7d9223-26ec-4ae8-8c02-f34287132036,Korea (North),KP,korea-north,0,1,0,6,0,0,04/05/2023,{}
+2b24c385-17ae-4251-a920-5231c874a2b4,Korea (South),KR,korea-south,10335,30615522,12,34093,0,0,04/05/2023,{}
+74002b3d-0d75-4460-bf59-89873c9a2eaf,Kuwait,KW,kuwait,0,663860,0,2570,0,0,04/05/2023,{}
+ad032d2b-addc-4736-b624-80c3e163ffaa,Kyrgyzstan,KG,kyrgyzstan,0,206708,0,2991,0,0,04/05/2023,{}
+e39450f9-e6ca-4afa-aa19-7d728c8d25ca,Lao PDR,LA,lao-pdr,0,218023,0,758,0,0,04/05/2023,{}
+b4bb79a4-987e-4d26-9d16-899648b427a9,Latvia,LV,latvia,27,976255,0,6269,0,0,04/05/2023,{}
+6fe126dd-a9a0-4602-90e7-bd02cd2a05e7,Lebanon,LB,lebanon,179,1232828,1,10841,0,0,04/05/2023,{}
+a0c9cd37-f1ec-43b2-9406-0e1120dfb2fa,Lesotho,LS,lesotho,0,34790,0,723,0,0,04/05/2023,{}
+984d3ab8-e201-45e3-9e60-b55c64ef007b,Liberia,LR,liberia,0,8090,0,295,0,0,04/05/2023,{}
+5e7a2f33-eed2-4fa3-9b68-b3ab753df346,Libya,LY,libya,0,507187,0,6437,0,0,04/05/2023,{}
+8c166c90-5fc8-4afe-942e-9ee9a3cf0e50,Liechtenstein,LI,liechtenstein,0,21432,0,89,0,0,04/05/2023,{}
+7e055988-b33b-4ba7-90f8-8e57c736468d,Lithuania,LT,lithuania,0,1307448,0,9596,0,0,04/05/2023,{}
+a00e81e5-26fa-41a5-954c-a8dfd46c890b,Luxembourg,LU,luxembourg,0,317367,0,1220,0,0,04/05/2023,{}
+5d4578c9-f9dc-4a77-8144-5fcc3e4b30a0,"Macedonia, Republic of",MK,macedonia,0,346852,0,9662,0,0,04/05/2023,{}
+48770060-c832-40e2-a286-3a013e7b7f21,Madagascar,MG,madagascar,0,67889,0,1423,0,0,04/05/2023,{}
+598767a5-5029-47fc-9766-3075c544d228,Malawi,MW,malawi,0,88707,0,2686,0,0,04/05/2023,{}
+bf8654fc-5003-48a6-a7b4-0a53a4970e46,Malaysia,MY,malaysia,279,5044718,0,36967,0,0,04/05/2023,{}
+e9071892-d2f5-4624-b735-c6b20512ff32,Maldives,MV,maldives,0,185738,0,311,0,0,04/05/2023,{}
+f59db82c-1398-40af-a2c0-94e8ef0177bf,Mali,ML,mali,1,33062,0,743,0,0,04/05/2023,{}
+7774464f-3003-496f-88f8-1e33e49eecbf,Malta,MT,malta,0,117610,0,828,0,0,04/05/2023,{}
+beba41ca-67f1-435e-9eda-d8285901e1da,Marshall Islands,MH,marshall-islands,0,15649,0,17,0,0,04/05/2023,{}
+fa27f820-d36d-47ac-9e9c-764d8d6ff416,Mauritania,MR,mauritania,0,63668,0,997,0,0,04/05/2023,{}
+225cb436-d845-43f4-b18d-3cd3104a24fe,Mauritius,MU,mauritius,0,296042,0,1044,0,0,04/05/2023,{}
+49f47693-0a14-41f9-957c-99111c46aed6,Mexico,MX,mexico,3809,7483444,18,333188,0,0,04/05/2023,{}
+078a7378-28ab-4fa6-a6c4-7f775b08c61c,"Micronesia, Federated States of",FM,micronesia,0,23948,0,61,0,0,04/05/2023,{}
+e542e58f-196e-4af7-a391-d3a41f80926a,Moldova,MD,moldova,0,611140,0,12003,0,0,04/05/2023,{}
+8a68ecd7-1e71-4a6c-a72b-83a99cc0abf4,Monaco,MC,monaco,0,16121,0,67,0,0,04/05/2023,{}
+fa3ab140-5a65-4a97-bb62-10c9d07b8352,Mongolia,MN,mongolia,0,1007900,0,2136,0,0,04/05/2023,{}
+fcdf3ad0-825e-4361-a160-d1f1e1b36150,Montenegro,ME,montenegro,56,288808,0,2808,0,0,04/05/2023,{}
+5504b1f0-27c7-4ba3-b3df-5533b3126189,Morocco,MA,morocco,0,1272490,0,16296,0,0,04/05/2023,{}
+e8625df6-fb5a-49b2-80cf-3cf4bd045688,Mozambique,MZ,mozambique,0,233214,0,2242,0,0,04/05/2023,{}
+b29535dc-d346-4ec1-84c8-38973aa9e6eb,Myanmar,MM,myanmar,1,633950,0,19490,0,0,04/05/2023,{}
+49fdff35-24f7-4ea1-9cdf-22bef95e5eed,Nauru,NR,nauru,0,5247,0,1,0,0,04/05/2023,{}
+a253f118-cf4b-48f8-b651-665df78a478c,Nepal,NP,nepal,4,1001154,0,12020,0,0,04/05/2023,{}
+5eb7cc9f-d3af-49f4-96e5-c6e4e20d6faa,Netherlands,NL,netherlands,0,8599981,0,22990,0,0,04/05/2023,{}
+a7a7235f-a15d-49af-87b1-0d2b40c9a0de,New Zealand,NZ,new-zealand,1,2236114,0,2550,0,0,04/05/2023,{}
+33314bff-04db-4f88-9ad5-13adfbb97a1b,Nicaragua,NI,nicaragua,0,15655,0,245,0,0,04/05/2023,{}
+d13c7e6e-29f3-4db0-874b-70917e0aae5b,Niger,NE,niger,0,9508,0,315,0,0,04/05/2023,{}
+2d48763f-e417-487c-8911-f81029ca96a7,Nigeria,NG,nigeria,0,266598,0,3155,0,0,04/05/2023,{}
+fb17445f-10dd-4556-bd4b-4f6352ccfb7c,Norway,NO,norway,53,1479506,0,5213,0,0,04/05/2023,{}
+455d6a8c-9999-4a28-b8cc-6e25fdaf7243,Oman,OM,oman,0,399449,0,4628,0,0,04/05/2023,{}
+0221a837-3048-485f-bd3d-bc25a63dd3b1,Pakistan,PK,pakistan,73,1577411,0,30644,0,0,04/05/2023,{}
+7e750d16-48d2-40ae-a77d-5fd8cb6e54f0,Palau,PW,palau,0,5991,0,9,0,0,04/05/2023,{}
+75cf5092-342d-4f14-a5eb-668de11993f5,Palestinian Territory,PS,palestine,0,703228,0,5708,0,0,04/05/2023,{}
+9b86fb8c-26f9-40da-b01e-db952d18e624,Panama,PA,panama,0,1031731,0,8609,0,0,04/05/2023,{}
+26e79574-9fdc-46fe-821a-6e892cf3be98,Papua New Guinea,PG,papua-new-guinea,0,46825,0,670,0,0,04/05/2023,{}
+9e3a0062-2600-47e6-a1aa-c9f4e6fc5a99,Paraguay,PY,paraguay,0,808401,0,19878,0,0,04/05/2023,{}
+0e8c8dc3-6979-48c2-a294-e80dba519d2b,Peru,PE,peru,0,4487553,0,219539,0,0,04/05/2023,{}
+6dc5ed28-8ac8-40eb-8457-7692bcb6d149,Philippines,PH,philippines,150,4077452,12,66188,0,0,04/05/2023,{}
+160b3949-18b3-4f3f-9e27-7f6a83b50091,Poland,PL,poland,3459,6444960,21,119010,0,0,04/05/2023,{}
+0ffa786e-2ace-475a-85b8-89f491d9ff4d,Portugal,PT,portugal,0,5570473,0,26266,0,0,04/05/2023,{}
+ae720355-512b-4d84-a50c-b548701c35c7,Qatar,QA,qatar,108,495090,0,688,0,0,04/05/2023,{}
+ea491371-954d-4c3d-b056-682a17a1f882,Republic of Kosovo,XK,kosovo,21,273312,0,3211,0,0,04/05/2023,{}
+62261963-641a-46a0-b742-216852ad431f,Romania,RO,romania,0,3346046,0,67736,0,0,04/05/2023,{}
+b11bf451-4fd2-40d0-98fc-0ac7fc2e206e,Russian Federation,RU,russia,12385,22075858,38,388478,0,0,04/05/2023,{}
+5da999ae-84c7-4447-b943-87876171bf6b,Rwanda,RW,rwanda,0,133194,0,1468,0,0,04/05/2023,{}
+e3468bc6-ee74-454d-9690-cacd9447acdf,Saint Kitts and Nevis,KN,saint-kitts-and-nevis,0,6597,0,47,0,0,04/05/2023,{}
+958fd512-d6ab-4520-b687-ef7c50a5b69d,Saint Lucia,LC,saint-lucia,0,30004,0,409,0,0,04/05/2023,{}
+edc1aa2d-c3e1-4b83-b35a-e4a7be41a47c,Saint Vincent and Grenadines,VC,saint-vincent-and-the-grenadines,0,9589,0,123,0,0,04/05/2023,{}
+e2846568-1038-4935-a24e-ad10a666261a,Samoa,WS,samoa,0,16607,0,29,0,0,04/05/2023,{}
+8b45c6b7-efbe-47dd-a619-53db477ddbf0,San Marino,SM,san-marino,0,23616,0,122,0,0,04/05/2023,{}
+4ab21465-efba-4da5-b0a7-c6d733a986a5,Sao Tome and Principe,ST,sao-tome-and-principe,0,6281,0,77,0,0,04/05/2023,{}
+df890137-822e-44e6-a982-db1064268d47,Saudi Arabia,SA,saudi-arabia,83,830127,0,9618,0,0,04/05/2023,{}
+98d0d796-8218-485d-97f4-ee58baa9f38c,Senegal,SN,senegal,0,88926,0,1971,0,0,04/05/2023,{}
+e2af3e1a-32f1-45b3-8bbc-d0fe6d06855c,Serbia,RS,serbia,873,2500142,6,17881,0,0,04/05/2023,{}
+3b2388db-2c9a-45a7-bfba-540d3ed5fe35,Seychelles,SC,seychelles,0,50665,0,172,0,0,04/05/2023,{}
+a4bdca28-ed50-4493-b91b-114ad9f60c37,Sierra Leone,SL,sierra-leone,0,7760,0,126,0,0,04/05/2023,{}
+11f92798-6e7a-4094-afb2-dd4de20cfb6c,Singapore,SG,singapore,0,2235294,0,1722,0,0,04/05/2023,{}
+610debbb-4f38-4c3a-ae4e-ddb451a216c8,Slovakia,SK,slovakia,262,2667551,2,21035,0,0,04/05/2023,{}
+9ee2a3da-80b9-4094-8618-98f985739204,Slovenia,SI,slovenia,511,1331707,1,7078,0,0,04/05/2023,{}
+7d6b52f8-a302-4e61-9b33-0d5f58641634,Solomon Islands,SB,solomon-islands,0,24575,0,153,0,0,04/05/2023,{}
+c925cf9e-4b08-455d-a6d1-82bb13c7f1f5,Somalia,SO,somalia,0,27324,0,1361,0,0,04/05/2023,{}
+3cbb3859-2008-4304-acac-935f59fc3423,South Africa,ZA,south-africa,426,4067067,0,102595,0,0,04/05/2023,{}
+6724d860-7582-46cc-9aab-93f26aad1149,South Sudan,SS,south-sudan,0,18368,0,138,0,0,04/05/2023,{}
+de5e71ec-024e-4c8d-a289-6e742373d911,Spain,ES,spain,0,13770429,0,119479,0,0,04/05/2023,{}
+650f945d-f2eb-4c62-96cc-2da224c97cb3,Sri Lanka,LK,sri-lanka,2,672039,0,16830,0,0,04/05/2023,{}
+f6707c50-6597-43ff-84be-53d9f6c37b18,Sudan,SD,sudan,0,63829,0,5017,0,0,04/05/2023,{}
+683cfd3a-89c1-40f7-b950-645bb3627f36,Suriname,SR,suriname,0,82467,0,1404,0,0,04/05/2023,{}
+1c099cd0-3779-4b90-ade3-3b9281e23015,Swaziland,SZ,swaziland,0,74267,0,1425,0,0,04/05/2023,{}
+5ea49a30-3a63-46e2-a4be-ea6df7597c9d,Sweden,SE,sweden,804,2699339,46,23777,0,0,04/05/2023,{}
+c0448c5b-e6c8-4bde-b491-420bffa809fb,Switzerland,CH,switzerland,0,4413911,1,14210,0,0,04/05/2023,{}
+183b547b-b7bf-4f33-bc34-29c5cd141eca,Syrian Arab Republic (Syria),SY,syria,0,57467,0,3164,0,0,04/05/2023,{}
+cf0c46fb-65e1-44b3-8662-c5f8e74a8678,"Taiwan, Republic of China",TW,taiwan,0,9970937,0,17672,0,0,04/05/2023,{}
+bebf44f5-c057-4d49-b184-834bf3c48917,Tajikistan,TJ,tajikistan,0,17786,0,125,0,0,04/05/2023,{}
+0035667c-9abc-43c5-bf0f-bfc9fc0293c1,"Tanzania, United Republic of",TZ,tanzania,0,42906,0,846,0,0,04/05/2023,{}
+501fb3ef-8db8-4511-948a-079f4bb6994a,Thailand,TH,thailand,0,4728182,0,33918,0,0,04/05/2023,{}
+7abd4fb3-7f86-456e-ac19-bf148a308667,Timor-Leste,TL,timor-leste,0,23419,0,138,0,0,04/05/2023,{}
+9cb72b70-36b6-4a3d-94d7-238fae52ac64,Togo,TG,togo,0,39396,0,290,0,0,04/05/2023,{}
+e0774cff-9adc-411c-8a28-0a486111cafd,Tonga,TO,tonga,0,16810,0,13,0,0,04/05/2023,{}
+ba5bd0da-a34d-486c-b8b4-2ae8b6933822,Trinidad and Tobago,TT,trinidad-and-tobago,0,189918,0,4355,0,0,04/05/2023,{}
+ab586426-a413-4e42-a1e2-433ab6d96642,Tunisia,TN,tunisia,0,1151126,0,29341,0,0,04/05/2023,{}
+ad3eef91-b137-48fb-847e-e7d9f977e815,Turkey,TR,turkey,0,17042722,0,101492,0,0,04/05/2023,{}
+65282647-ecb8-4bab-939c-da703ab613b1,Tuvalu,TV,tuvalu,0,2805,0,0,0,0,04/05/2023,{}
+b6848938-8549-4934-9f3d-e3b57bb36c59,Uganda,UG,uganda,0,170544,0,3630,0,0,04/05/2023,{}
+89d1a149-0416-40fe-8ca8-d4eab724922d,Ukraine,UA,ukraine,111,5711929,2,119283,0,0,04/05/2023,{}
+3568dfb6-0297-44e7-aaa0-80d1d03a3289,United Arab Emirates,AE,united-arab-emirates,145,1053213,0,2349,0,0,04/05/2023,{}
+07e353a2-a784-4896-944e-fc008a3d3923,United Kingdom,GB,united-kingdom,28783,24658705,0,220721,0,0,04/05/2023,{}
+f30f6944-0fa7-42d2-be49-4b7133e31884,United States of America,US,united-states,46931,103802702,590,1123836,0,0,04/05/2023,{}
+f34a2a45-2df8-4b33-96c3-d4522a6d47fc,Uruguay,UY,uruguay,0,1034303,0,7617,0,0,04/05/2023,{}
+c825cd3f-84e2-47b0-bae3-a9614a7ce277,Uzbekistan,UZ,uzbekistan,0,251247,0,1637,0,0,04/05/2023,{}
+75c1ac4e-1308-40ae-ac94-08ed24b20da9,Vanuatu,VU,vanuatu,0,12014,0,14,0,0,04/05/2023,{}
+8294688e-f298-40a4-8db2-f251355edf05,Venezuela (Bolivarian Republic),VE,venezuela,5,552162,0,5854,0,0,04/05/2023,{}
+3b791f30-9f54-49ab-9f06-4cce7669095a,Viet Nam,VN,vietnam,0,11526994,0,43186,0,0,04/05/2023,{}
+7dd732e9-4348-487e-b4cc-762b2beb2d8f,Yemen,YE,yemen,0,11945,0,2159,0,0,04/05/2023,{}
+b72ff60a-d7c4-4d15-ad0f-6e6162fc3d41,Zambia,ZM,zambia,0,343135,0,4057,0,0,04/05/2023,{}
+08cedd1a-6b28-4c14-9654-1e2717e73314,Zimbabwe,ZW,zimbabwe,0,264276,0,5671,0,0,04/05/2023,{}
